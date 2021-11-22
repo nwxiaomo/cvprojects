@@ -1,7 +1,7 @@
 # 计算机视觉小项目
 
 
-# 本项目已经移到：https://github.com/enpeizhao/CVprojects，此处不再更新
+# 此处不再更新，本项目已经移到：https://github.com/enpeizhao/CVprojects
 
 
 观看项目实际运行视频：
