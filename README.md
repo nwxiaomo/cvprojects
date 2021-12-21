@@ -16,8 +16,8 @@
 
 | 名称                       | 截图                                                         | 难度 | 代码                                                         |
 | -------------------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| 10.AI虚拟鼠标              | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_6083.PNG?x-oss-process=style/wp" style="width:200px;" /> | ⭐️    | [codes/10.virtual_mouse](https://github.com/enpeizhao/CVprojects/tree/main/codes/10.virtual_mouse) |
-| 9.AI 虚拟点读机            | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211211154451.png?x-oss-process=style/wp" style="width:200px;" /> | ⭐️⭐️⭐️  | [codes/9.virtual reader](https://github.com/enpeizhao/CVprojects/tree/main/codes/9.virtual%20reader) |
+| 10.AI虚拟鼠标              | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_6083.PNG?x-oss-process=style/wp" style="width:200px;" /> | ⭐️    | [codes/10.virtual_mouse](./codes/10.virtual_mouse)           |
+| 9.AI 虚拟点读机            | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211211154451.png?x-oss-process=style/wp" style="width:200px;" /> | ⭐️⭐️⭐️  | [codes/9.virtual reader](./codes/9.virtual%20reader)         |
 | 8. 火影结印识别            | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211201102837.png?x-oss-process=style/wp" style="width:200px;" /> | ⭐️⭐️⭐️  | [codes/8.结印识别](https://github.com/enpeizhao/CVprojects/tree/main/codes/8.%E7%BB%93%E5%8D%B0%E8%AF%86%E5%88%AB) |
 | 7.虚拟拖放 Python + opencv | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211120135236.png?x-oss-process=style/wp" style="width:200px;" /> | ⭐️⭐️   | [codes/7.virtual_drag_drop.py](https://github.com/enpeizhao/CVprojects/blob/main/codes/7.virtual_drag_drop) |
 | 6.Python手势控制电脑音量   | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211120135209.png?x-oss-process=style/wp" style="width:200px;" /> | ⭐️    | [codes/6.hand_control_volume.py](https://github.com/enpeizhao/CVprojects/blob/main/codes/6.hand_control_volume) |
