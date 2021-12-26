@@ -16,6 +16,7 @@
 
 | 名称                       | 截图                                                         | 难度 | 代码                                                         |
 | -------------------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| 11.AI分析看电视行为        | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_6178.PNG?x-oss-process=style/wp"  style="width:200px;" /> | ⭐️⭐️⭐️  | [codes/11.watch_tv](./codes/11.watch_tv)                     |
 | 10.AI虚拟鼠标              | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_6083.PNG?x-oss-process=style/wp" style="width:200px;" /> | ⭐️    | [codes/10.virtual_mouse](./codes/10.virtual_mouse)           |
 | 9.AI 虚拟点读机            | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211211154451.png?x-oss-process=style/wp" style="width:200px;" /> | ⭐️⭐️⭐️  | [codes/9.virtual reader](./codes/9.virtual%20reader)         |
 | 8. 火影结印识别            | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211201102837.png?x-oss-process=style/wp" style="width:200px;" /> | ⭐️⭐️⭐️  | [codes/8.结印识别](./codes/8.%E7%BB%93%E5%8D%B0%E8%AF%86%E5%88%AB) |
