@@ -4,18 +4,18 @@
 
 
 
-#### 一、硬件：
+## 一、硬件：
 
 * Windows10或11（无需GPU）或MacOS 都测试可行
 * 普通RBG USB摄像头
 
-#### 二、软件：
+## 二、软件：
 
 * Python：3.7
 * opencv 
 * Dlib
 
-#### 二、用法：
+## 二、用法：
 
 使用`python demo_full.py --{参数名}={参数值}`
 
@@ -36,7 +36,7 @@
 
 
 
-##### 2.1、注册人脸：将人脸特征写入`./data/feature.csv`
+### 2.1、注册人脸：将人脸特征写入`./data/feature.csv`
 
 用法：
 
@@ -48,7 +48,7 @@
 
 
 
-##### 2.2、识别人脸：将考勤记录写入`./data/attendance.csv`
+### 2.2、识别人脸：将考勤记录写入`./data/attendance.csv`
 
 用法：
 
