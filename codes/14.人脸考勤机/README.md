@@ -48,7 +48,7 @@
 
 
 
-### 2.2、识别人脸：将考勤记录写入`./data/attendance.csv`
+### 2.2、识别人脸开始考勤：将考勤记录写入`./data/attendance.csv`
 
 用法：
 
