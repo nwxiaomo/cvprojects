@@ -22,6 +22,7 @@
 
 | 名称                       | 截图                                                         | 方法                                   | 难度 | 代码                                                         |
 | -------------------------- | ------------------------------------------------------------ | -------------------------------------- | ---- | ------------------------------------------------------------ |
+| 15.防挡弹幕                | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220305205805.png?x-oss-process=style/wp" style="width:200px;" /> | 图像分割                               | ⭐️⭐️⭐️  | [codes/15.防挡弹幕](./codes/15.防挡弹幕)                     |
 | 14.人脸考勤机              | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220220094051.png?x-oss-process=style/wp" style="width:200px;" /> | 人脸检测与识别                         | ⭐️⭐️⭐️  | [codes/14.人脸考勤机](./codes/14.人脸考勤机)                 |
 | 13.毛笔书体检测与识别      | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_63991.jpeg?x-oss-process=style/wp" style="width:200px;" /> | OpenCV形态学、HOG、SVM                 | ⭐️⭐️   | [codes/13.书法书体检测与识别](./codes/13.书法书体检测与识别) |
 | 11.AI分析看电视行为        | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_6178.PNG?x-oss-process=style/wp"  style="width:200px;" /> | 人脸检测与识别、姿态、距离估计         | ⭐️⭐️⭐️  | [codes/11.watch_tv](./codes/11.watch_tv)                     |
