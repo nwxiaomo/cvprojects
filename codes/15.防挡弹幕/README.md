@@ -30,7 +30,7 @@ optional arguments:
 
 
 
-### 2.1、GitHub仓库需下载相关文件，gitee无需
+### 2.1、下载相关文件
 
 * 2.1.1 下载字体 `MSYH.ttc` 至 `./fonts`目录下，[下载地址点这里](https://github.com/enpeizhao/CVprojects/releases/tag/font)
 * 2.1.2 下载预训练模型 `mask_rcnn_coco.h5`至`./weights`目录下，[下载地址点这里](https://github.com/enpeizhao/CVprojects/releases/tag/Models)

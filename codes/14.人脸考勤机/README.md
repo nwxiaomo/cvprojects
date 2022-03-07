@@ -36,7 +36,27 @@
 
 
 
-### 2.1、注册人脸：将人脸特征写入`./data/feature.csv`
+### 2.1、下载模型与字体
+
+**2.1.1 [下载模型文件](https://github.com/enpeizhao/CVprojects/releases/tag/Models)放到`./weights`目录下**：
+
+* [下载地址](https://github.com/enpeizhao/CVprojects/releases/tag/Models)
+
+* 文件列表
+
+  * `dlib_face_recognition_resnet_model_v1.dat`
+
+  * `haarcascade_frontalface_default.xml`
+
+  * `mmod_human_face_detector.dat`
+
+  * `shape_predictor_68_face_landmarks.dat`
+
+**2.1.2下载`Songti.ttc`字体文件放到`./fonts`目录下**
+
+* [下载地址](https://github.com/enpeizhao/CVprojects/releases/tag/font)
+
+### 2.2、注册人脸：将人脸特征写入`./data/feature.csv`
 
 用法：
 
@@ -48,7 +68,7 @@
 
 
 
-### 2.2、识别人脸开始考勤：将考勤记录写入`./data/attendance.csv`
+### 2.3、识别人脸开始考勤：将考勤记录写入`./data/attendance.csv`
 
 用法：
 
