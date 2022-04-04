@@ -22,7 +22,7 @@
 
 | 名称                               | 截图                                                         | 方法                                     | 难度 | 代码                                                         |
 | ---------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | ---- | ------------------------------------------------------------ |
-| 17.YOLOv5 jetson nano 工地防护检测 | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220404103032.png?x-oss-process=style/wp" style="width:200px;" /> | YOLOv5、Jetson Nano、tensoRT、Deepstream | ⭐️⭐️⭐️  | [codes/17.YOLOv5 jetson nano 工地防护检测](17.YOLOv5_jetson_nano_工地防护检测) |
+| 17.YOLOv5 jetson nano 工地防护检测 | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220404103032.png?x-oss-process=style/wp" style="width:200px;" /> | YOLOv5、Jetson Nano、tensoRT、Deepstream | ⭐️⭐️⭐️  | [codes/17.YOLOv5 jetson nano 工地防护检测](./codes/17.YOLOv5_jetson_nano_工地防护检测) |
 | 16.树莓派口罩规范佩戴检测          | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220319164803.png?x-oss-process=style/wp" style="width:200px;" /> | 树莓派、卷积神经网络、模型压缩           | ⭐️⭐️⭐️  | [codes/16.口罩规范佩戴检测](./codes/16.口罩规范佩戴检测)     |
 | 15.防挡弹幕                        | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220305205805.png?x-oss-process=style/wp" style="width:200px;" /> | 图像分割                                 | ⭐️⭐️⭐️  | [codes/15.防挡弹幕](./codes/15.防挡弹幕)                     |
 | 14.人脸考勤机                      | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220220094051.png?x-oss-process=style/wp" style="width:200px;" /> | 人脸检测与识别                           | ⭐️⭐️⭐️  | [codes/14.人脸考勤机](./codes/14.人脸考勤机)                 |
