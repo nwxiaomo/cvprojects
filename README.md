@@ -22,6 +22,7 @@
 
 | 名称                                    | 截图                                                         | 方法                                     | 难度 | 代码                                                         |
 | --------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | ---- | ------------------------------------------------------------ |
+| 21.GAN老照片上色动起来                  | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_7673.jpg?x-oss-process=style/wp" style="width:200px;" /> | GAN                                      | ⭐️⭐️   | [codes/21.GAN老照片上色动起来](./codes/21.GAN老照片上色动起来) |
 | 20.骨骼点动态动作识别                   | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220518201724.png?x-oss-process=style/wp" style="width:200px;" /> | 姿态估计、DTW                            | ⭐️⭐️⭐️  | [codes/20.骨骼点动作识别](./codes/20.骨骼点动作识别)         |
 | 19.OCR车牌识别                          | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220504215359.png?x-oss-process=style/wp" style="width:200px;" /> | 目标检测、OCR车牌识别                    | ⭐️⭐️⭐️  | [codes/19.OCR车牌识别](./codes/19.OCR车牌识别)               |
 | 18.YOLOv5 + Deepsort 车辆追踪及速度分析 | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220418170339.png?x-oss-process=style/wp" style="width:200px;" /> | YOLOv5、Deepsort、目标追踪、速度估计     | ⭐️⭐️⭐️⭐️ | [codes/18.deepsort道路车辆分析](./codes/18.deepsort道路车辆分析) |
