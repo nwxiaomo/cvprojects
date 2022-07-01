@@ -22,6 +22,7 @@
 
 | 名称                                    | 截图                                                         | 方法                                     | 难度 | 代码                                                         |
 | --------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | ---- | ------------------------------------------------------------ |
+| 23.facenet 戴口罩的人脸识别             | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_7913.PNG?x-oss-process=style/wp" style="width:200px;" /> | facenet、inception resnet、人脸识别      | ⭐️⭐️⭐️⭐️ | [codes/23.facenet戴口罩的人脸识别](./codes/23.facenet戴口罩的人脸识别) |
 | 22.openvino扑克牌检测                   | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220617180106.png?x-oss-process=style/wp" style="width:200px;" /> | Openvino、YOLOV5、树莓派                 | ⭐️⭐️   | [codes/22.openvino扑克牌检测](./codes/22.openvino扑克牌检测) |
 | 21.GAN老照片上色动起来                  | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_7673.jpg?x-oss-process=style/wp" style="width:200px;" /> | GAN                                      | ⭐️⭐️   | [codes/21.GAN老照片上色动起来](./codes/21.GAN老照片上色动起来) |
 | 20.骨骼点动态动作识别                   | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220518201724.png?x-oss-process=style/wp" style="width:200px;" /> | 姿态估计、DTW                            | ⭐️⭐️⭐️  | [codes/20.骨骼点动作识别](./codes/20.骨骼点动作识别)         |
