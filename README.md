@@ -22,6 +22,7 @@
 
 | 名称                                    | 截图                                                         | 方法                                             | 难度 | 代码                                                         |
 | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| 25.swin-transformer路面分割             | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220728172209.png?x-oss-process=style/wp" style="width:200px;" /> | Swin-transfomer                                  | ⭐️⭐️⭐️  | [codes/25.swin-transformer路面分割](./codes/25.swin-transformer路面分割) |
 | 24.Web以图搜图系统                      | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220715195118.png?x-oss-process=style/wp" style="width:200px;" /> | metric-learning、docker、torchserve、tfservering | ⭐️⭐️⭐️⭐️ | [codes/24.web以图搜图](./codes/24.web以图搜图)               |
 | 23.facenet 戴口罩的人脸识别             | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_7913.PNG?x-oss-process=style/wp" style="width:200px;" /> | facenet、inception resnet、人脸识别              | ⭐️⭐️⭐️⭐️ | [codes/23.facenet戴口罩的人脸识别](./codes/23.facenet戴口罩的人脸识别) |
 | 22.openvino扑克牌检测                   | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220617180106.png?x-oss-process=style/wp" style="width:200px;" /> | Openvino、YOLOV5、树莓派                         | ⭐️⭐️   | [codes/22.openvino扑克牌检测](./codes/22.openvino扑克牌检测) |
